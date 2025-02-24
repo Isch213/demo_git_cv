@@ -1,0 +1,11 @@
+sources:
+  - name: raw
+    database: postgres_db  
+    schema: raw  
+    tables:
+      - name: lis_dates
+      - name: json_names
+      - name: json_names_nested
+
+models:
+  - name: sel
