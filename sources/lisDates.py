@@ -16,9 +16,8 @@ print(lisDates[:3])
 
 
 
-# Get the directory where the script is located
-script_dir = os.path.dirname(os.path.abspath(__file__))  
-file_path = os.path.join(script_dir, "lisDates.csv")  # Save in the same directory as script
+# save loc
+file_path = os.path.join(os.getcwd(),"sources","raw_files", "lisDates.csv")  
 
 
 with open(file_path, "w", newline="") as file:
