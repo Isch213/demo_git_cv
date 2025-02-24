@@ -4,10 +4,10 @@ import json
 
 print(f"Current Working Directory: {os.getcwd()}")
 print(f"Current script Directory: {os.path.dirname(os.path.abspath(__file__)) }")
-filename = "jsonNames"
+filename = "jsonNamesNested"
 file_path = os.path.join(os.getcwd(),"sources","raw_files",filename+".json")
 
-name = "json_names"
+name = "json_names_nested"
 
 # Step 1: Read the JSON file
 with open(file_path, "r") as json_file:
