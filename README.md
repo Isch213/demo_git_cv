@@ -9,5 +9,7 @@ git repository:
 
 
 **Transformations with dbt**
+- For each source a source transformation with slight adjustments to the source files are completed (prefix "s_")
+- The date table is enriched by joining the holidays data for germany, "by".
 
 
