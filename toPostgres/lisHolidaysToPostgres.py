@@ -12,7 +12,7 @@ os.chdir(desired_directory)
 print(f"Current Working Directory: {os.getcwd()}")
 print(f"Current script Directory: {os.path.dirname(os.path.abspath(__file__)) }")
 sourcesdir =  os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-filename = "lisDates"
+filename = "de_holidays"
 file_path = os.path.join(sourcesdir,"sources","raw_files",filename+".csv")
 print(file_path)
 
@@ -28,13 +28,13 @@ df = read_csv_df(file_path)
 
 # Initialize dlt pipeline
 pipeline = dlt.pipeline(
-    pipeline_name="lisDates", 
+    pipeline_name="de_holidays", 
     destination="postgres",  #access dlt_toml
     dataset_name="raw"  
 )
 
 # Load data into PostgreSQL
-load_info = pipeline.run(df, table_name="lisDates", write_disposition="replace")
+load_info = pipeline.run(df, table_name="de_holidays", write_disposition="replace")
 
 # Print the result
 print(f"Data loaded: {load_info}")

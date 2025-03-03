@@ -6,6 +6,7 @@ sources:
       - name: lis_dates
       - name: json_names
       - name: json_names_nested
+      - name: de_holidays
 
 models:
   - name: sel

@@ -1,0 +1,949 @@
+﻿date;holidayname;subcountry
+2048-01-01;Neujahr;BY
+2048-04-03;Karfreitag;BY
+2048-04-06;Ostermontag;BY
+2048-05-01;Erster Mai;BY
+2048-05-14;Christi Himmelfahrt;BY
+2048-05-25;Pfingstmontag;BY
+2048-10-03;Tag der Deutschen Einheit;BY
+2048-12-25;Erster Weihnachtstag;BY
+2048-12-26;Zweiter Weihnachtstag;BY
+2048-01-06;Heilige Drei Könige;BY
+2048-06-04;Fronleichnam;BY
+2048-11-01;Allerheiligen;BY
+2049-01-01;Neujahr;BY
+2049-04-16;Karfreitag;BY
+2049-04-19;Ostermontag;BY
+2049-05-01;Erster Mai;BY
+2049-05-27;Christi Himmelfahrt;BY
+2049-06-07;Pfingstmontag;BY
+2049-10-03;Tag der Deutschen Einheit;BY
+2049-12-25;Erster Weihnachtstag;BY
+2049-12-26;Zweiter Weihnachtstag;BY
+2049-01-06;Heilige Drei Könige;BY
+2049-06-17;Fronleichnam;BY
+2049-11-01;Allerheiligen;BY
+2050-01-01;Neujahr;BY
+2050-04-08;Karfreitag;BY
+2050-04-11;Ostermontag;BY
+2050-05-01;Erster Mai;BY
+2050-05-19;Christi Himmelfahrt;BY
+2050-05-30;Pfingstmontag;BY
+2050-10-03;Tag der Deutschen Einheit;BY
+2050-12-25;Erster Weihnachtstag;BY
+2050-12-26;Zweiter Weihnachtstag;BY
+2050-01-06;Heilige Drei Könige;BY
+2050-06-09;Fronleichnam;BY
+2050-11-01;Allerheiligen;BY
+2051-01-01;Neujahr;BY
+2051-03-31;Karfreitag;BY
+2051-04-03;Ostermontag;BY
+2051-05-01;Erster Mai;BY
+2051-05-11;Christi Himmelfahrt;BY
+2051-05-22;Pfingstmontag;BY
+2051-10-03;Tag der Deutschen Einheit;BY
+2051-12-25;Erster Weihnachtstag;BY
+2051-12-26;Zweiter Weihnachtstag;BY
+2051-01-06;Heilige Drei Könige;BY
+2051-06-01;Fronleichnam;BY
+2051-11-01;Allerheiligen;BY
+2052-01-01;Neujahr;BY
+2052-04-19;Karfreitag;BY
+2052-04-22;Ostermontag;BY
+2052-05-01;Erster Mai;BY
+2052-05-30;Christi Himmelfahrt;BY
+2052-06-10;Pfingstmontag;BY
+2052-10-03;Tag der Deutschen Einheit;BY
+2052-12-25;Erster Weihnachtstag;BY
+2052-12-26;Zweiter Weihnachtstag;BY
+2052-01-06;Heilige Drei Könige;BY
+2052-06-20;Fronleichnam;BY
+2052-11-01;Allerheiligen;BY
+2053-01-01;Neujahr;BY
+2053-04-04;Karfreitag;BY
+2053-04-07;Ostermontag;BY
+2053-05-01;Erster Mai;BY
+2053-05-15;Christi Himmelfahrt;BY
+2053-05-26;Pfingstmontag;BY
+2053-10-03;Tag der Deutschen Einheit;BY
+2053-12-25;Erster Weihnachtstag;BY
+2053-12-26;Zweiter Weihnachtstag;BY
+2053-01-06;Heilige Drei Könige;BY
+2053-06-05;Fronleichnam;BY
+2053-11-01;Allerheiligen;BY
+2054-01-01;Neujahr;BY
+2054-03-27;Karfreitag;BY
+2054-03-30;Ostermontag;BY
+2054-05-01;Erster Mai;BY
+2054-05-07;Christi Himmelfahrt;BY
+2054-05-18;Pfingstmontag;BY
+2054-10-03;Tag der Deutschen Einheit;BY
+2054-12-25;Erster Weihnachtstag;BY
+2054-12-26;Zweiter Weihnachtstag;BY
+2054-01-06;Heilige Drei Könige;BY
+2054-05-28;Fronleichnam;BY
+2054-11-01;Allerheiligen;BY
+2055-01-01;Neujahr;BY
+2055-04-16;Karfreitag;BY
+2055-04-19;Ostermontag;BY
+2055-05-01;Erster Mai;BY
+2055-05-27;Christi Himmelfahrt;BY
+2055-06-07;Pfingstmontag;BY
+2055-10-03;Tag der Deutschen Einheit;BY
+2055-12-25;Erster Weihnachtstag;BY
+2055-12-26;Zweiter Weihnachtstag;BY
+2055-01-06;Heilige Drei Könige;BY
+2055-06-17;Fronleichnam;BY
+2055-11-01;Allerheiligen;BY
+2056-01-01;Neujahr;BY
+2056-03-31;Karfreitag;BY
+2056-04-03;Ostermontag;BY
+2056-05-01;Erster Mai;BY
+2056-05-11;Christi Himmelfahrt;BY
+2056-05-22;Pfingstmontag;BY
+2056-10-03;Tag der Deutschen Einheit;BY
+2056-12-25;Erster Weihnachtstag;BY
+2056-12-26;Zweiter Weihnachtstag;BY
+2056-01-06;Heilige Drei Könige;BY
+2056-06-01;Fronleichnam;BY
+2056-11-01;Allerheiligen;BY
+2057-01-01;Neujahr;BY
+2057-04-20;Karfreitag;BY
+2057-04-23;Ostermontag;BY
+2057-05-01;Erster Mai;BY
+2057-05-31;Christi Himmelfahrt;BY
+2057-06-11;Pfingstmontag;BY
+2057-10-03;Tag der Deutschen Einheit;BY
+2057-12-25;Erster Weihnachtstag;BY
+2057-12-26;Zweiter Weihnachtstag;BY
+2057-01-06;Heilige Drei Könige;BY
+2057-06-21;Fronleichnam;BY
+2057-11-01;Allerheiligen;BY
+2058-01-01;Neujahr;BY
+2058-04-12;Karfreitag;BY
+2058-04-15;Ostermontag;BY
+2058-05-01;Erster Mai;BY
+2058-05-23;Christi Himmelfahrt;BY
+2058-06-03;Pfingstmontag;BY
+2058-10-03;Tag der Deutschen Einheit;BY
+2058-12-25;Erster Weihnachtstag;BY
+2058-12-26;Zweiter Weihnachtstag;BY
+2058-01-06;Heilige Drei Könige;BY
+2058-06-13;Fronleichnam;BY
+2058-11-01;Allerheiligen;BY
+2059-01-01;Neujahr;BY
+2059-03-28;Karfreitag;BY
+2059-03-31;Ostermontag;BY
+2059-05-01;Erster Mai;BY
+2059-05-08;Christi Himmelfahrt;BY
+2059-05-19;Pfingstmontag;BY
+2059-10-03;Tag der Deutschen Einheit;BY
+2059-12-25;Erster Weihnachtstag;BY
+2059-12-26;Zweiter Weihnachtstag;BY
+2059-01-06;Heilige Drei Könige;BY
+2059-05-29;Fronleichnam;BY
+2059-11-01;Allerheiligen;BY
+2060-01-01;Neujahr;BY
+2060-04-16;Karfreitag;BY
+2060-04-19;Ostermontag;BY
+2060-05-01;Erster Mai;BY
+2060-05-27;Christi Himmelfahrt;BY
+2060-06-07;Pfingstmontag;BY
+2060-10-03;Tag der Deutschen Einheit;BY
+2060-12-25;Erster Weihnachtstag;BY
+2060-12-26;Zweiter Weihnachtstag;BY
+2060-01-06;Heilige Drei Könige;BY
+2060-06-17;Fronleichnam;BY
+2060-11-01;Allerheiligen;BY
+2061-01-01;Neujahr;BY
+2061-04-08;Karfreitag;BY
+2061-04-11;Ostermontag;BY
+2061-05-01;Erster Mai;BY
+2061-05-19;Christi Himmelfahrt;BY
+2061-05-30;Pfingstmontag;BY
+2061-10-03;Tag der Deutschen Einheit;BY
+2061-12-25;Erster Weihnachtstag;BY
+2061-12-26;Zweiter Weihnachtstag;BY
+2061-01-06;Heilige Drei Könige;BY
+2061-06-09;Fronleichnam;BY
+2061-11-01;Allerheiligen;BY
+2062-01-01;Neujahr;BY
+2062-03-24;Karfreitag;BY
+2062-03-27;Ostermontag;BY
+2062-05-01;Erster Mai;BY
+2062-05-04;Christi Himmelfahrt;BY
+2062-05-15;Pfingstmontag;BY
+2062-10-03;Tag der Deutschen Einheit;BY
+2062-12-25;Erster Weihnachtstag;BY
+2062-12-26;Zweiter Weihnachtstag;BY
+2062-01-06;Heilige Drei Könige;BY
+2062-05-25;Fronleichnam;BY
+2062-11-01;Allerheiligen;BY
+2063-01-01;Neujahr;BY
+2063-04-13;Karfreitag;BY
+2063-04-16;Ostermontag;BY
+2063-05-01;Erster Mai;BY
+2063-05-24;Christi Himmelfahrt;BY
+2063-06-04;Pfingstmontag;BY
+2063-10-03;Tag der Deutschen Einheit;BY
+2063-12-25;Erster Weihnachtstag;BY
+2063-12-26;Zweiter Weihnachtstag;BY
+2063-01-06;Heilige Drei Könige;BY
+2063-06-14;Fronleichnam;BY
+2063-11-01;Allerheiligen;BY
+2064-01-01;Neujahr;BY
+2064-04-04;Karfreitag;BY
+2064-04-07;Ostermontag;BY
+2064-05-01;Erster Mai;BY
+2064-05-15;Christi Himmelfahrt;BY
+2064-05-26;Pfingstmontag;BY
+2064-10-03;Tag der Deutschen Einheit;BY
+2064-12-25;Erster Weihnachtstag;BY
+2064-12-26;Zweiter Weihnachtstag;BY
+2064-01-06;Heilige Drei Könige;BY
+2064-06-05;Fronleichnam;BY
+2064-11-01;Allerheiligen;BY
+2065-01-01;Neujahr;BY
+2065-03-27;Karfreitag;BY
+2065-03-30;Ostermontag;BY
+2065-05-01;Erster Mai;BY
+2065-05-07;Christi Himmelfahrt;BY
+2065-05-18;Pfingstmontag;BY
+2065-10-03;Tag der Deutschen Einheit;BY
+2065-12-25;Erster Weihnachtstag;BY
+2065-12-26;Zweiter Weihnachtstag;BY
+2065-01-06;Heilige Drei Könige;BY
+2065-05-28;Fronleichnam;BY
+2065-11-01;Allerheiligen;BY
+2066-01-01;Neujahr;BY
+2066-04-09;Karfreitag;BY
+2066-04-12;Ostermontag;BY
+2066-05-01;Erster Mai;BY
+2066-05-20;Christi Himmelfahrt;BY
+2066-05-31;Pfingstmontag;BY
+2066-10-03;Tag der Deutschen Einheit;BY
+2066-12-25;Erster Weihnachtstag;BY
+2066-12-26;Zweiter Weihnachtstag;BY
+2066-01-06;Heilige Drei Könige;BY
+2066-06-10;Fronleichnam;BY
+2066-11-01;Allerheiligen;BY
+2067-01-01;Neujahr;BY
+2067-04-01;Karfreitag;BY
+2067-04-04;Ostermontag;BY
+2067-05-01;Erster Mai;BY
+2067-05-12;Christi Himmelfahrt;BY
+2067-05-23;Pfingstmontag;BY
+2067-10-03;Tag der Deutschen Einheit;BY
+2067-12-25;Erster Weihnachtstag;BY
+2067-12-26;Zweiter Weihnachtstag;BY
+2067-01-06;Heilige Drei Könige;BY
+2067-06-02;Fronleichnam;BY
+2067-11-01;Allerheiligen;BY
+2068-01-01;Neujahr;BY
+2068-04-20;Karfreitag;BY
+2068-04-23;Ostermontag;BY
+2068-05-01;Erster Mai;BY
+2068-05-31;Christi Himmelfahrt;BY
+2068-06-11;Pfingstmontag;BY
+2068-10-03;Tag der Deutschen Einheit;BY
+2068-12-25;Erster Weihnachtstag;BY
+2068-12-26;Zweiter Weihnachtstag;BY
+2068-01-06;Heilige Drei Könige;BY
+2068-06-21;Fronleichnam;BY
+2068-11-01;Allerheiligen;BY
+2069-01-01;Neujahr;BY
+2069-04-12;Karfreitag;BY
+2069-04-15;Ostermontag;BY
+2069-05-01;Erster Mai;BY
+2069-05-23;Christi Himmelfahrt;BY
+2069-06-03;Pfingstmontag;BY
+2069-10-03;Tag der Deutschen Einheit;BY
+2069-12-25;Erster Weihnachtstag;BY
+2069-12-26;Zweiter Weihnachtstag;BY
+2069-01-06;Heilige Drei Könige;BY
+2069-06-13;Fronleichnam;BY
+2069-11-01;Allerheiligen;BY
+2070-01-01;Neujahr;BY
+2070-03-28;Karfreitag;BY
+2070-03-31;Ostermontag;BY
+2070-05-01;Erster Mai;BY
+2070-05-08;Christi Himmelfahrt;BY
+2070-05-19;Pfingstmontag;BY
+2070-10-03;Tag der Deutschen Einheit;BY
+2070-12-25;Erster Weihnachtstag;BY
+2070-12-26;Zweiter Weihnachtstag;BY
+2070-01-06;Heilige Drei Könige;BY
+2070-05-29;Fronleichnam;BY
+2070-11-01;Allerheiligen;BY
+2071-01-01;Neujahr;BY
+2071-04-17;Karfreitag;BY
+2071-04-20;Ostermontag;BY
+2071-05-01;Erster Mai;BY
+2071-05-28;Christi Himmelfahrt;BY
+2071-06-08;Pfingstmontag;BY
+2071-10-03;Tag der Deutschen Einheit;BY
+2071-12-25;Erster Weihnachtstag;BY
+2071-12-26;Zweiter Weihnachtstag;BY
+2071-01-06;Heilige Drei Könige;BY
+2071-06-18;Fronleichnam;BY
+2071-11-01;Allerheiligen;BY
+2072-01-01;Neujahr;BY
+2072-04-08;Karfreitag;BY
+2072-04-11;Ostermontag;BY
+2072-05-01;Erster Mai;BY
+2072-05-19;Christi Himmelfahrt;BY
+2072-05-30;Pfingstmontag;BY
+2072-10-03;Tag der Deutschen Einheit;BY
+2072-12-25;Erster Weihnachtstag;BY
+2072-12-26;Zweiter Weihnachtstag;BY
+2072-01-06;Heilige Drei Könige;BY
+2072-06-09;Fronleichnam;BY
+2072-11-01;Allerheiligen;BY
+2073-01-01;Neujahr;BY
+2073-03-24;Karfreitag;BY
+2073-03-27;Ostermontag;BY
+2073-05-01;Erster Mai;BY
+2073-05-04;Christi Himmelfahrt;BY
+2073-05-15;Pfingstmontag;BY
+2073-10-03;Tag der Deutschen Einheit;BY
+2073-12-25;Erster Weihnachtstag;BY
+2073-12-26;Zweiter Weihnachtstag;BY
+2073-01-06;Heilige Drei Könige;BY
+2073-05-25;Fronleichnam;BY
+2073-11-01;Allerheiligen;BY
+2074-01-01;Neujahr;BY
+2074-04-13;Karfreitag;BY
+2074-04-16;Ostermontag;BY
+2074-05-01;Erster Mai;BY
+2074-05-24;Christi Himmelfahrt;BY
+2074-06-04;Pfingstmontag;BY
+2074-10-03;Tag der Deutschen Einheit;BY
+2074-12-25;Erster Weihnachtstag;BY
+2074-12-26;Zweiter Weihnachtstag;BY
+2074-01-06;Heilige Drei Könige;BY
+2074-06-14;Fronleichnam;BY
+2074-11-01;Allerheiligen;BY
+2075-01-01;Neujahr;BY
+2075-04-05;Karfreitag;BY
+2075-04-08;Ostermontag;BY
+2075-05-01;Erster Mai;BY
+2075-05-16;Christi Himmelfahrt;BY
+2075-05-27;Pfingstmontag;BY
+2075-10-03;Tag der Deutschen Einheit;BY
+2075-12-25;Erster Weihnachtstag;BY
+2075-12-26;Zweiter Weihnachtstag;BY
+2075-01-06;Heilige Drei Könige;BY
+2075-06-06;Fronleichnam;BY
+2075-11-01;Allerheiligen;BY
+2076-01-01;Neujahr;BY
+2076-04-17;Karfreitag;BY
+2076-04-20;Ostermontag;BY
+2076-05-01;Erster Mai;BY
+2076-05-28;Christi Himmelfahrt;BY
+2076-06-08;Pfingstmontag;BY
+2076-10-03;Tag der Deutschen Einheit;BY
+2076-12-25;Erster Weihnachtstag;BY
+2076-12-26;Zweiter Weihnachtstag;BY
+2076-01-06;Heilige Drei Könige;BY
+2076-06-18;Fronleichnam;BY
+2076-11-01;Allerheiligen;BY
+2077-01-01;Neujahr;BY
+2077-04-09;Karfreitag;BY
+2077-04-12;Ostermontag;BY
+2077-05-01;Erster Mai;BY
+2077-05-20;Christi Himmelfahrt;BY
+2077-05-31;Pfingstmontag;BY
+2077-10-03;Tag der Deutschen Einheit;BY
+2077-12-25;Erster Weihnachtstag;BY
+2077-12-26;Zweiter Weihnachtstag;BY
+2077-01-06;Heilige Drei Könige;BY
+2077-06-10;Fronleichnam;BY
+2077-11-01;Allerheiligen;BY
+2078-01-01;Neujahr;BY
+2078-04-01;Karfreitag;BY
+2078-04-04;Ostermontag;BY
+2078-05-01;Erster Mai;BY
+2078-05-12;Christi Himmelfahrt;BY
+2078-05-23;Pfingstmontag;BY
+2078-10-03;Tag der Deutschen Einheit;BY
+2078-12-25;Erster Weihnachtstag;BY
+2078-12-26;Zweiter Weihnachtstag;BY
+2078-01-06;Heilige Drei Könige;BY
+2078-06-02;Fronleichnam;BY
+2078-11-01;Allerheiligen;BY
+2079-01-01;Neujahr;BY
+2079-04-21;Karfreitag;BY
+2079-04-24;Ostermontag;BY
+2079-05-01;Erster Mai;BY
+2079-06-01;Christi Himmelfahrt;BY
+2079-06-12;Pfingstmontag;BY
+2079-10-03;Tag der Deutschen Einheit;BY
+2079-12-25;Erster Weihnachtstag;BY
+2079-12-26;Zweiter Weihnachtstag;BY
+2079-01-06;Heilige Drei Könige;BY
+2079-06-22;Fronleichnam;BY
+2079-11-01;Allerheiligen;BY
+2080-01-01;Neujahr;BY
+2080-04-05;Karfreitag;BY
+2080-04-08;Ostermontag;BY
+2080-05-01;Erster Mai;BY
+2080-05-16;Christi Himmelfahrt;BY
+2080-05-27;Pfingstmontag;BY
+2080-10-03;Tag der Deutschen Einheit;BY
+2080-12-25;Erster Weihnachtstag;BY
+2080-12-26;Zweiter Weihnachtstag;BY
+2080-01-06;Heilige Drei Könige;BY
+2080-06-06;Fronleichnam;BY
+2080-11-01;Allerheiligen;BY
+2081-01-01;Neujahr;BY
+2081-03-28;Karfreitag;BY
+2081-03-31;Ostermontag;BY
+2081-05-01;Erster Mai;BY
+2081-05-08;Christi Himmelfahrt;BY
+2081-05-19;Pfingstmontag;BY
+2081-10-03;Tag der Deutschen Einheit;BY
+2081-12-25;Erster Weihnachtstag;BY
+2081-12-26;Zweiter Weihnachtstag;BY
+2081-01-06;Heilige Drei Könige;BY
+2081-05-29;Fronleichnam;BY
+2081-11-01;Allerheiligen;BY
+2082-01-01;Neujahr;BY
+2082-04-17;Karfreitag;BY
+2082-04-20;Ostermontag;BY
+2082-05-01;Erster Mai;BY
+2082-05-28;Christi Himmelfahrt;BY
+2082-06-08;Pfingstmontag;BY
+2082-10-03;Tag der Deutschen Einheit;BY
+2082-12-25;Erster Weihnachtstag;BY
+2082-12-26;Zweiter Weihnachtstag;BY
+2082-01-06;Heilige Drei Könige;BY
+2082-06-18;Fronleichnam;BY
+2082-11-01;Allerheiligen;BY
+2083-01-01;Neujahr;BY
+2083-04-02;Karfreitag;BY
+2083-04-05;Ostermontag;BY
+2083-05-01;Erster Mai;BY
+2083-05-13;Christi Himmelfahrt;BY
+2083-05-24;Pfingstmontag;BY
+2083-10-03;Tag der Deutschen Einheit;BY
+2083-12-25;Erster Weihnachtstag;BY
+2083-12-26;Zweiter Weihnachtstag;BY
+2083-01-06;Heilige Drei Könige;BY
+2083-06-03;Fronleichnam;BY
+2083-11-01;Allerheiligen;BY
+2084-01-01;Neujahr;BY
+2084-03-24;Karfreitag;BY
+2084-03-27;Ostermontag;BY
+2084-05-01;Erster Mai;BY
+2084-05-04;Christi Himmelfahrt;BY
+2084-05-15;Pfingstmontag;BY
+2084-10-03;Tag der Deutschen Einheit;BY
+2084-12-25;Erster Weihnachtstag;BY
+2084-12-26;Zweiter Weihnachtstag;BY
+2084-01-06;Heilige Drei Könige;BY
+2084-05-25;Fronleichnam;BY
+2084-11-01;Allerheiligen;BY
+2085-01-01;Neujahr;BY
+2085-04-13;Karfreitag;BY
+2085-04-16;Ostermontag;BY
+2085-05-01;Erster Mai;BY
+2085-05-24;Christi Himmelfahrt;BY
+2085-06-04;Pfingstmontag;BY
+2085-10-03;Tag der Deutschen Einheit;BY
+2085-12-25;Erster Weihnachtstag;BY
+2085-12-26;Zweiter Weihnachtstag;BY
+2085-01-06;Heilige Drei Könige;BY
+2085-06-14;Fronleichnam;BY
+2085-11-01;Allerheiligen;BY
+2086-01-01;Neujahr;BY
+2086-03-29;Karfreitag;BY
+2086-04-01;Ostermontag;BY
+2086-05-01;Erster Mai;BY
+2086-05-09;Christi Himmelfahrt;BY
+2086-05-20;Pfingstmontag;BY
+2086-10-03;Tag der Deutschen Einheit;BY
+2086-12-25;Erster Weihnachtstag;BY
+2086-12-26;Zweiter Weihnachtstag;BY
+2086-01-06;Heilige Drei Könige;BY
+2086-05-30;Fronleichnam;BY
+2086-11-01;Allerheiligen;BY
+2087-01-01;Neujahr;BY
+2087-04-18;Karfreitag;BY
+2087-04-21;Ostermontag;BY
+2087-05-01;Erster Mai;BY
+2087-05-29;Christi Himmelfahrt;BY
+2087-06-09;Pfingstmontag;BY
+2087-10-03;Tag der Deutschen Einheit;BY
+2087-12-25;Erster Weihnachtstag;BY
+2087-12-26;Zweiter Weihnachtstag;BY
+2087-01-06;Heilige Drei Könige;BY
+2087-06-19;Fronleichnam;BY
+2087-11-01;Allerheiligen;BY
+2088-01-01;Neujahr;BY
+2088-04-09;Karfreitag;BY
+2088-04-12;Ostermontag;BY
+2088-05-01;Erster Mai;BY
+2088-05-20;Christi Himmelfahrt;BY
+2088-05-31;Pfingstmontag;BY
+2088-10-03;Tag der Deutschen Einheit;BY
+2088-12-25;Erster Weihnachtstag;BY
+2088-12-26;Zweiter Weihnachtstag;BY
+2088-01-06;Heilige Drei Könige;BY
+2088-06-10;Fronleichnam;BY
+2088-11-01;Allerheiligen;BY
+2089-01-01;Neujahr;BY
+2089-04-01;Karfreitag;BY
+2089-04-04;Ostermontag;BY
+2089-05-01;Erster Mai;BY
+2089-05-12;Christi Himmelfahrt;BY
+2089-05-23;Pfingstmontag;BY
+2089-10-03;Tag der Deutschen Einheit;BY
+2089-12-25;Erster Weihnachtstag;BY
+2089-12-26;Zweiter Weihnachtstag;BY
+2089-01-06;Heilige Drei Könige;BY
+2089-06-02;Fronleichnam;BY
+2089-11-01;Allerheiligen;BY
+2090-01-01;Neujahr;BY
+2090-04-14;Karfreitag;BY
+2090-04-17;Ostermontag;BY
+2090-05-01;Erster Mai;BY
+2090-05-25;Christi Himmelfahrt;BY
+2090-06-05;Pfingstmontag;BY
+2090-10-03;Tag der Deutschen Einheit;BY
+2090-12-25;Erster Weihnachtstag;BY
+2090-12-26;Zweiter Weihnachtstag;BY
+2090-01-06;Heilige Drei Könige;BY
+2090-06-15;Fronleichnam;BY
+2090-11-01;Allerheiligen;BY
+2091-01-01;Neujahr;BY
+2091-04-06;Karfreitag;BY
+2091-04-09;Ostermontag;BY
+2091-05-01;Erster Mai;BY
+2091-05-17;Christi Himmelfahrt;BY
+2091-05-28;Pfingstmontag;BY
+2091-10-03;Tag der Deutschen Einheit;BY
+2091-12-25;Erster Weihnachtstag;BY
+2091-12-26;Zweiter Weihnachtstag;BY
+2091-01-06;Heilige Drei Könige;BY
+2091-06-07;Fronleichnam;BY
+2091-11-01;Allerheiligen;BY
+2092-01-01;Neujahr;BY
+2092-03-28;Karfreitag;BY
+2092-03-31;Ostermontag;BY
+2092-05-01;Erster Mai;BY
+2092-05-08;Christi Himmelfahrt;BY
+2092-05-19;Pfingstmontag;BY
+2092-10-03;Tag der Deutschen Einheit;BY
+2092-12-25;Erster Weihnachtstag;BY
+2092-12-26;Zweiter Weihnachtstag;BY
+2092-01-06;Heilige Drei Könige;BY
+2092-05-29;Fronleichnam;BY
+2092-11-01;Allerheiligen;BY
+2093-01-01;Neujahr;BY
+2093-04-10;Karfreitag;BY
+2093-04-13;Ostermontag;BY
+2093-05-01;Erster Mai;BY
+2093-05-21;Christi Himmelfahrt;BY
+2093-06-01;Pfingstmontag;BY
+2093-10-03;Tag der Deutschen Einheit;BY
+2093-12-25;Erster Weihnachtstag;BY
+2093-12-26;Zweiter Weihnachtstag;BY
+2093-01-06;Heilige Drei Könige;BY
+2093-06-11;Fronleichnam;BY
+2093-11-01;Allerheiligen;BY
+2094-01-01;Neujahr;BY
+2094-04-02;Karfreitag;BY
+2094-04-05;Ostermontag;BY
+2094-05-01;Erster Mai;BY
+2094-05-13;Christi Himmelfahrt;BY
+2094-05-24;Pfingstmontag;BY
+2094-10-03;Tag der Deutschen Einheit;BY
+2094-12-25;Erster Weihnachtstag;BY
+2094-12-26;Zweiter Weihnachtstag;BY
+2094-01-06;Heilige Drei Könige;BY
+2094-06-03;Fronleichnam;BY
+2094-11-01;Allerheiligen;BY
+2095-01-01;Neujahr;BY
+2095-04-22;Karfreitag;BY
+2095-04-25;Ostermontag;BY
+2095-05-01;Erster Mai;BY
+2095-06-02;Christi Himmelfahrt;BY
+2095-06-13;Pfingstmontag;BY
+2095-10-03;Tag der Deutschen Einheit;BY
+2095-12-25;Erster Weihnachtstag;BY
+2095-12-26;Zweiter Weihnachtstag;BY
+2095-01-06;Heilige Drei Könige;BY
+2095-06-23;Fronleichnam;BY
+2095-11-01;Allerheiligen;BY
+2096-01-01;Neujahr;BY
+2096-04-13;Karfreitag;BY
+2096-04-16;Ostermontag;BY
+2096-05-01;Erster Mai;BY
+2096-05-24;Christi Himmelfahrt;BY
+2096-06-04;Pfingstmontag;BY
+2096-10-03;Tag der Deutschen Einheit;BY
+2096-12-25;Erster Weihnachtstag;BY
+2096-12-26;Zweiter Weihnachtstag;BY
+2096-01-06;Heilige Drei Könige;BY
+2096-06-14;Fronleichnam;BY
+2096-11-01;Allerheiligen;BY
+2097-01-01;Neujahr;BY
+2097-03-29;Karfreitag;BY
+2097-04-01;Ostermontag;BY
+2097-05-01;Erster Mai;BY
+2097-05-09;Christi Himmelfahrt;BY
+2097-05-20;Pfingstmontag;BY
+2097-10-03;Tag der Deutschen Einheit;BY
+2097-12-25;Erster Weihnachtstag;BY
+2097-12-26;Zweiter Weihnachtstag;BY
+2097-01-06;Heilige Drei Könige;BY
+2097-05-30;Fronleichnam;BY
+2097-11-01;Allerheiligen;BY
+2098-01-01;Neujahr;BY
+2098-04-18;Karfreitag;BY
+2098-04-21;Ostermontag;BY
+2098-05-01;Erster Mai;BY
+2098-05-29;Christi Himmelfahrt;BY
+2098-06-09;Pfingstmontag;BY
+2098-10-03;Tag der Deutschen Einheit;BY
+2098-12-25;Erster Weihnachtstag;BY
+2098-12-26;Zweiter Weihnachtstag;BY
+2098-01-06;Heilige Drei Könige;BY
+2098-06-19;Fronleichnam;BY
+2098-11-01;Allerheiligen;BY
+2020-01-01;Neujahr;BY
+2020-04-10;Karfreitag;BY
+2020-04-13;Ostermontag;BY
+2020-05-01;Erster Mai;BY
+2020-05-21;Christi Himmelfahrt;BY
+2020-06-01;Pfingstmontag;BY
+2020-10-03;Tag der Deutschen Einheit;BY
+2020-12-25;Erster Weihnachtstag;BY
+2020-12-26;Zweiter Weihnachtstag;BY
+2020-01-06;Heilige Drei Könige;BY
+2020-06-11;Fronleichnam;BY
+2020-11-01;Allerheiligen;BY
+2021-01-01;Neujahr;BY
+2021-04-02;Karfreitag;BY
+2021-04-05;Ostermontag;BY
+2021-05-01;Erster Mai;BY
+2021-05-13;Christi Himmelfahrt;BY
+2021-05-24;Pfingstmontag;BY
+2021-10-03;Tag der Deutschen Einheit;BY
+2021-12-25;Erster Weihnachtstag;BY
+2021-12-26;Zweiter Weihnachtstag;BY
+2021-01-06;Heilige Drei Könige;BY
+2021-06-03;Fronleichnam;BY
+2021-11-01;Allerheiligen;BY
+2022-01-01;Neujahr;BY
+2022-04-15;Karfreitag;BY
+2022-04-18;Ostermontag;BY
+2022-05-01;Erster Mai;BY
+2022-05-26;Christi Himmelfahrt;BY
+2022-06-06;Pfingstmontag;BY
+2022-10-03;Tag der Deutschen Einheit;BY
+2022-12-25;Erster Weihnachtstag;BY
+2022-12-26;Zweiter Weihnachtstag;BY
+2022-01-06;Heilige Drei Könige;BY
+2022-06-16;Fronleichnam;BY
+2022-11-01;Allerheiligen;BY
+2023-01-01;Neujahr;BY
+2023-04-07;Karfreitag;BY
+2023-04-10;Ostermontag;BY
+2023-05-01;Erster Mai;BY
+2023-05-18;Christi Himmelfahrt;BY
+2023-05-29;Pfingstmontag;BY
+2023-10-03;Tag der Deutschen Einheit;BY
+2023-12-25;Erster Weihnachtstag;BY
+2023-12-26;Zweiter Weihnachtstag;BY
+2023-01-06;Heilige Drei Könige;BY
+2023-06-08;Fronleichnam;BY
+2023-11-01;Allerheiligen;BY
+2024-01-01;Neujahr;BY
+2024-03-29;Karfreitag;BY
+2024-04-01;Ostermontag;BY
+2024-05-01;Erster Mai;BY
+2024-05-09;Christi Himmelfahrt;BY
+2024-05-20;Pfingstmontag;BY
+2024-10-03;Tag der Deutschen Einheit;BY
+2024-12-25;Erster Weihnachtstag;BY
+2024-12-26;Zweiter Weihnachtstag;BY
+2024-01-06;Heilige Drei Könige;BY
+2024-05-30;Fronleichnam;BY
+2024-11-01;Allerheiligen;BY
+2025-01-01;Neujahr;BY
+2025-04-18;Karfreitag;BY
+2025-04-21;Ostermontag;BY
+2025-05-01;Erster Mai;BY
+2025-05-29;Christi Himmelfahrt;BY
+2025-06-09;Pfingstmontag;BY
+2025-10-03;Tag der Deutschen Einheit;BY
+2025-12-25;Erster Weihnachtstag;BY
+2025-12-26;Zweiter Weihnachtstag;BY
+2025-01-06;Heilige Drei Könige;BY
+2025-06-19;Fronleichnam;BY
+2025-11-01;Allerheiligen;BY
+2026-01-01;Neujahr;BY
+2026-04-03;Karfreitag;BY
+2026-04-06;Ostermontag;BY
+2026-05-01;Erster Mai;BY
+2026-05-14;Christi Himmelfahrt;BY
+2026-05-25;Pfingstmontag;BY
+2026-10-03;Tag der Deutschen Einheit;BY
+2026-12-25;Erster Weihnachtstag;BY
+2026-12-26;Zweiter Weihnachtstag;BY
+2026-01-06;Heilige Drei Könige;BY
+2026-06-04;Fronleichnam;BY
+2026-11-01;Allerheiligen;BY
+2027-01-01;Neujahr;BY
+2027-03-26;Karfreitag;BY
+2027-03-29;Ostermontag;BY
+2027-05-01;Erster Mai;BY
+2027-05-06;Christi Himmelfahrt;BY
+2027-05-17;Pfingstmontag;BY
+2027-10-03;Tag der Deutschen Einheit;BY
+2027-12-25;Erster Weihnachtstag;BY
+2027-12-26;Zweiter Weihnachtstag;BY
+2027-01-06;Heilige Drei Könige;BY
+2027-05-27;Fronleichnam;BY
+2027-11-01;Allerheiligen;BY
+2028-01-01;Neujahr;BY
+2028-04-14;Karfreitag;BY
+2028-04-17;Ostermontag;BY
+2028-05-01;Erster Mai;BY
+2028-05-25;Christi Himmelfahrt;BY
+2028-06-05;Pfingstmontag;BY
+2028-10-03;Tag der Deutschen Einheit;BY
+2028-12-25;Erster Weihnachtstag;BY
+2028-12-26;Zweiter Weihnachtstag;BY
+2028-01-06;Heilige Drei Könige;BY
+2028-06-15;Fronleichnam;BY
+2028-11-01;Allerheiligen;BY
+2029-01-01;Neujahr;BY
+2029-03-30;Karfreitag;BY
+2029-04-02;Ostermontag;BY
+2029-05-01;Erster Mai;BY
+2029-05-10;Christi Himmelfahrt;BY
+2029-05-21;Pfingstmontag;BY
+2029-10-03;Tag der Deutschen Einheit;BY
+2029-12-25;Erster Weihnachtstag;BY
+2029-12-26;Zweiter Weihnachtstag;BY
+2029-01-06;Heilige Drei Könige;BY
+2029-05-31;Fronleichnam;BY
+2029-11-01;Allerheiligen;BY
+2030-01-01;Neujahr;BY
+2030-04-19;Karfreitag;BY
+2030-04-22;Ostermontag;BY
+2030-05-01;Erster Mai;BY
+2030-05-30;Christi Himmelfahrt;BY
+2030-06-10;Pfingstmontag;BY
+2030-10-03;Tag der Deutschen Einheit;BY
+2030-12-25;Erster Weihnachtstag;BY
+2030-12-26;Zweiter Weihnachtstag;BY
+2030-01-06;Heilige Drei Könige;BY
+2030-06-20;Fronleichnam;BY
+2030-11-01;Allerheiligen;BY
+2031-01-01;Neujahr;BY
+2031-04-11;Karfreitag;BY
+2031-04-14;Ostermontag;BY
+2031-05-01;Erster Mai;BY
+2031-05-22;Christi Himmelfahrt;BY
+2031-06-02;Pfingstmontag;BY
+2031-10-03;Tag der Deutschen Einheit;BY
+2031-12-25;Erster Weihnachtstag;BY
+2031-12-26;Zweiter Weihnachtstag;BY
+2031-01-06;Heilige Drei Könige;BY
+2031-06-12;Fronleichnam;BY
+2031-11-01;Allerheiligen;BY
+2032-01-01;Neujahr;BY
+2032-03-26;Karfreitag;BY
+2032-03-29;Ostermontag;BY
+2032-05-01;Erster Mai;BY
+2032-05-06;Christi Himmelfahrt;BY
+2032-05-17;Pfingstmontag;BY
+2032-10-03;Tag der Deutschen Einheit;BY
+2032-12-25;Erster Weihnachtstag;BY
+2032-12-26;Zweiter Weihnachtstag;BY
+2032-01-06;Heilige Drei Könige;BY
+2032-05-27;Fronleichnam;BY
+2032-11-01;Allerheiligen;BY
+2033-01-01;Neujahr;BY
+2033-04-15;Karfreitag;BY
+2033-04-18;Ostermontag;BY
+2033-05-01;Erster Mai;BY
+2033-05-26;Christi Himmelfahrt;BY
+2033-06-06;Pfingstmontag;BY
+2033-10-03;Tag der Deutschen Einheit;BY
+2033-12-25;Erster Weihnachtstag;BY
+2033-12-26;Zweiter Weihnachtstag;BY
+2033-01-06;Heilige Drei Könige;BY
+2033-06-16;Fronleichnam;BY
+2033-11-01;Allerheiligen;BY
+2034-01-01;Neujahr;BY
+2034-04-07;Karfreitag;BY
+2034-04-10;Ostermontag;BY
+2034-05-01;Erster Mai;BY
+2034-05-18;Christi Himmelfahrt;BY
+2034-05-29;Pfingstmontag;BY
+2034-10-03;Tag der Deutschen Einheit;BY
+2034-12-25;Erster Weihnachtstag;BY
+2034-12-26;Zweiter Weihnachtstag;BY
+2034-01-06;Heilige Drei Könige;BY
+2034-06-08;Fronleichnam;BY
+2034-11-01;Allerheiligen;BY
+2035-01-01;Neujahr;BY
+2035-03-23;Karfreitag;BY
+2035-03-26;Ostermontag;BY
+2035-05-01;Erster Mai;BY
+2035-05-03;Christi Himmelfahrt;BY
+2035-05-14;Pfingstmontag;BY
+2035-10-03;Tag der Deutschen Einheit;BY
+2035-12-25;Erster Weihnachtstag;BY
+2035-12-26;Zweiter Weihnachtstag;BY
+2035-01-06;Heilige Drei Könige;BY
+2035-05-24;Fronleichnam;BY
+2035-11-01;Allerheiligen;BY
+2036-01-01;Neujahr;BY
+2036-04-11;Karfreitag;BY
+2036-04-14;Ostermontag;BY
+2036-05-01;Erster Mai;BY
+2036-05-22;Christi Himmelfahrt;BY
+2036-06-02;Pfingstmontag;BY
+2036-10-03;Tag der Deutschen Einheit;BY
+2036-12-25;Erster Weihnachtstag;BY
+2036-12-26;Zweiter Weihnachtstag;BY
+2036-01-06;Heilige Drei Könige;BY
+2036-06-12;Fronleichnam;BY
+2036-11-01;Allerheiligen;BY
+2037-01-01;Neujahr;BY
+2037-04-03;Karfreitag;BY
+2037-04-06;Ostermontag;BY
+2037-05-01;Erster Mai;BY
+2037-05-14;Christi Himmelfahrt;BY
+2037-05-25;Pfingstmontag;BY
+2037-10-03;Tag der Deutschen Einheit;BY
+2037-12-25;Erster Weihnachtstag;BY
+2037-12-26;Zweiter Weihnachtstag;BY
+2037-01-06;Heilige Drei Könige;BY
+2037-06-04;Fronleichnam;BY
+2037-11-01;Allerheiligen;BY
+2038-01-01;Neujahr;BY
+2038-04-23;Karfreitag;BY
+2038-04-26;Ostermontag;BY
+2038-05-01;Erster Mai;BY
+2038-06-03;Christi Himmelfahrt;BY
+2038-06-14;Pfingstmontag;BY
+2038-10-03;Tag der Deutschen Einheit;BY
+2038-12-25;Erster Weihnachtstag;BY
+2038-12-26;Zweiter Weihnachtstag;BY
+2038-01-06;Heilige Drei Könige;BY
+2038-06-24;Fronleichnam;BY
+2038-11-01;Allerheiligen;BY
+2039-01-01;Neujahr;BY
+2039-04-08;Karfreitag;BY
+2039-04-11;Ostermontag;BY
+2039-05-01;Erster Mai;BY
+2039-05-19;Christi Himmelfahrt;BY
+2039-05-30;Pfingstmontag;BY
+2039-10-03;Tag der Deutschen Einheit;BY
+2039-12-25;Erster Weihnachtstag;BY
+2039-12-26;Zweiter Weihnachtstag;BY
+2039-01-06;Heilige Drei Könige;BY
+2039-06-09;Fronleichnam;BY
+2039-11-01;Allerheiligen;BY
+2040-01-01;Neujahr;BY
+2040-03-30;Karfreitag;BY
+2040-04-02;Ostermontag;BY
+2040-05-01;Erster Mai;BY
+2040-05-10;Christi Himmelfahrt;BY
+2040-05-21;Pfingstmontag;BY
+2040-10-03;Tag der Deutschen Einheit;BY
+2040-12-25;Erster Weihnachtstag;BY
+2040-12-26;Zweiter Weihnachtstag;BY
+2040-01-06;Heilige Drei Könige;BY
+2040-05-31;Fronleichnam;BY
+2040-11-01;Allerheiligen;BY
+2041-01-01;Neujahr;BY
+2041-04-19;Karfreitag;BY
+2041-04-22;Ostermontag;BY
+2041-05-01;Erster Mai;BY
+2041-05-30;Christi Himmelfahrt;BY
+2041-06-10;Pfingstmontag;BY
+2041-10-03;Tag der Deutschen Einheit;BY
+2041-12-25;Erster Weihnachtstag;BY
+2041-12-26;Zweiter Weihnachtstag;BY
+2041-01-06;Heilige Drei Könige;BY
+2041-06-20;Fronleichnam;BY
+2041-11-01;Allerheiligen;BY
+2042-01-01;Neujahr;BY
+2042-04-04;Karfreitag;BY
+2042-04-07;Ostermontag;BY
+2042-05-01;Erster Mai;BY
+2042-05-15;Christi Himmelfahrt;BY
+2042-05-26;Pfingstmontag;BY
+2042-10-03;Tag der Deutschen Einheit;BY
+2042-12-25;Erster Weihnachtstag;BY
+2042-12-26;Zweiter Weihnachtstag;BY
+2042-01-06;Heilige Drei Könige;BY
+2042-06-05;Fronleichnam;BY
+2042-11-01;Allerheiligen;BY
+2043-01-01;Neujahr;BY
+2043-03-27;Karfreitag;BY
+2043-03-30;Ostermontag;BY
+2043-05-01;Erster Mai;BY
+2043-05-07;Christi Himmelfahrt;BY
+2043-05-18;Pfingstmontag;BY
+2043-10-03;Tag der Deutschen Einheit;BY
+2043-12-25;Erster Weihnachtstag;BY
+2043-12-26;Zweiter Weihnachtstag;BY
+2043-01-06;Heilige Drei Könige;BY
+2043-05-28;Fronleichnam;BY
+2043-11-01;Allerheiligen;BY
+2044-01-01;Neujahr;BY
+2044-04-15;Karfreitag;BY
+2044-04-18;Ostermontag;BY
+2044-05-01;Erster Mai;BY
+2044-05-26;Christi Himmelfahrt;BY
+2044-06-06;Pfingstmontag;BY
+2044-10-03;Tag der Deutschen Einheit;BY
+2044-12-25;Erster Weihnachtstag;BY
+2044-12-26;Zweiter Weihnachtstag;BY
+2044-01-06;Heilige Drei Könige;BY
+2044-06-16;Fronleichnam;BY
+2044-11-01;Allerheiligen;BY
+2045-01-01;Neujahr;BY
+2045-04-07;Karfreitag;BY
+2045-04-10;Ostermontag;BY
+2045-05-01;Erster Mai;BY
+2045-05-18;Christi Himmelfahrt;BY
+2045-05-29;Pfingstmontag;BY
+2045-10-03;Tag der Deutschen Einheit;BY
+2045-12-25;Erster Weihnachtstag;BY
+2045-12-26;Zweiter Weihnachtstag;BY
+2045-01-06;Heilige Drei Könige;BY
+2045-06-08;Fronleichnam;BY
+2045-11-01;Allerheiligen;BY
+2046-01-01;Neujahr;BY
+2046-03-23;Karfreitag;BY
+2046-03-26;Ostermontag;BY
+2046-05-01;Erster Mai;BY
+2046-05-03;Christi Himmelfahrt;BY
+2046-05-14;Pfingstmontag;BY
+2046-10-03;Tag der Deutschen Einheit;BY
+2046-12-25;Erster Weihnachtstag;BY
+2046-12-26;Zweiter Weihnachtstag;BY
+2046-01-06;Heilige Drei Könige;BY
+2046-05-24;Fronleichnam;BY
+2046-11-01;Allerheiligen;BY
+2047-01-01;Neujahr;BY
+2047-04-12;Karfreitag;BY
+2047-04-15;Ostermontag;BY
+2047-05-01;Erster Mai;BY
+2047-05-23;Christi Himmelfahrt;BY
+2047-06-03;Pfingstmontag;BY
+2047-10-03;Tag der Deutschen Einheit;BY
+2047-12-25;Erster Weihnachtstag;BY
+2047-12-26;Zweiter Weihnachtstag;BY
+2047-01-06;Heilige Drei Könige;BY
+2047-06-13;Fronleichnam;BY
+2047-11-01;Allerheiligen;BY
