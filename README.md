@@ -1,6 +1,7 @@
 # This repository contains a demo data project with the following structure:
 
-git repository:
+![grafik](https://github.com/user-attachments/assets/59a50976-aef7-485d-81ea-c1cfb3bcd078)
+
 
 **E&L with python and dlt**
 - sources: contains python scripts that generate data (api or py packages)
