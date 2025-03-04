@@ -2,10 +2,15 @@ import dlt
 import os
 import json
 
-print(f"Current Working Directory: {os.getcwd()}")
-print(f"Current script Directory: {os.path.dirname(os.path.abspath(__file__)) }")
+# Set the directory where you want the script to run
+desired_directory = r"C:\py_projects\Python\demo_git_cv"  # Change this to your desired path
+
+# Change the current working directory
+os.chdir(desired_directory)
+
+
 filename = "jsonNames"
-file_path = os.path.join(os.getcwd(),"sources","raw_files",filename+".json")
+file_path = os.path.join(desired_directory,"sources","raw_files",filename+".json")
 
 name = "json_names"
 

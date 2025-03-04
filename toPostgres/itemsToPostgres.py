@@ -9,7 +9,7 @@ desired_directory = r"C:\py_projects\Python\demo_git_cv"  # Change this to your 
 # Change the current working directory
 os.chdir(desired_directory)
 
-filename = "lisDates"
+filename = "items"
 file_path = os.path.join(desired_directory,"sources","raw_files",filename+".csv")
 print(file_path)
 
@@ -25,13 +25,16 @@ df = read_csv_df(file_path)
 
 # Initialize dlt pipeline
 pipeline = dlt.pipeline(
-    pipeline_name="lisDates", 
+    import_schema_path="schemas/import",
+    export_schema_path="schemas/export",
+    pipeline_name=filename, 
     destination="postgres",  #access dlt_toml
-    dataset_name="raw"  
+    dataset_name="raw",
+    dev_mode=True  
 )
 
 # Load data into PostgreSQL
-load_info = pipeline.run(df, table_name="lisDates", write_disposition="replace")
+load_info = pipeline.run(df, table_name=filename, write_disposition="replace")
 
 # Print the result
 print(f"Data loaded: {load_info}")

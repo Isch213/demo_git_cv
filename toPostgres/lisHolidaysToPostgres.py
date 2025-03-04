@@ -9,11 +9,8 @@ desired_directory = r"C:\py_projects\Python\demo_git_cv"  # Change this to your 
 # Change the current working directory
 os.chdir(desired_directory)
 
-print(f"Current Working Directory: {os.getcwd()}")
-print(f"Current script Directory: {os.path.dirname(os.path.abspath(__file__)) }")
-sourcesdir =  os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 filename = "de_holidays"
-file_path = os.path.join(sourcesdir,"sources","raw_files",filename+".csv")
+file_path = os.path.join(desired_directory,"sources","raw_files",filename+".csv")
 print(file_path)
 
 # Define the path to your CSV file

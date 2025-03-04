@@ -18,9 +18,13 @@ def API_names(API_length):    #List of random names
     print('nr. of names: ',API_length,payload)
     return result.json()
 
+# Set the directory where you want the script to run
+desired_directory = r"C:\py_projects\Python\demo_git_cv"  # Change this to your desired path
+# Change the current working directory
+os.chdir(desired_directory)
+
 # Get the directory where the script is located
-script_dir = os.path.dirname(os.path.abspath(__file__))  
-file_path = os.path.join(script_dir,"raw_files", "jsonNames.json")
+file_path = os.path.join(desired_directory,"sources","raw_files", "jsonNames.json")
 
 result = API_names(10)
 
