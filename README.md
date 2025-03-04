@@ -1,6 +1,7 @@
 # This repository contains a demo data project with the following structure:
 
-![grafik](https://github.com/user-attachments/assets/59a50976-aef7-485d-81ea-c1cfb3bcd078)
+![grafik](https://github.com/user-attachments/assets/03acb054-7b7b-4ca3-b566-36c57c42cbda)
+
 
 
 **E&L with python and dlt**
