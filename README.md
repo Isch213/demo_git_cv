@@ -1,6 +1,7 @@
 # This repository contains a demo data project with the following structure:
 
-![grafik](https://github.com/user-attachments/assets/03acb054-7b7b-4ca3-b566-36c57c42cbda)
+![grafik](https://github.com/user-attachments/assets/5f3c0627-8ae6-44cf-b8e3-96b9a12996fe)
+
 
 
 
