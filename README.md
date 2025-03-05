@@ -5,10 +5,13 @@
 
 
 
-**E&L with python and dlt**
+**E&L with python and dlt** // Folder structure
+- cv_postgres: dbt project folder
+- schemas: dlt schema folder
 - sources: contains python scripts that generate data (api or py packages)
   - raw_files: the output is then saved to the folder in the corresponding format (json dump for api or csv)
 - toPostgres: using dlt, the files are saved to a local postgres which is run in a docker container
+  
 - The "ingestion_run_all.py" file showcases a basic file, that runs all .py files in the mother directory. Said script can be run via autoscheduler via Windows in case of an on-prem scenario.
 
 
