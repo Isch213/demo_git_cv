@@ -15,7 +15,8 @@ The repository in general showcases a lightweight ELT project with the sources b
 
 
 
-**Transformations with dbt**
+**Transformations with dbt**:
+
 In short, this project showcases a few very basic transformations, some snapshots and tests.
 - For each source a source transformation with slight adjustments to the source files are completed (prefix "s_")
 - The date table is enriched by joining the holidays data for germany, subdivision (~state) bayern.
