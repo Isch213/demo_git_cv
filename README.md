@@ -22,6 +22,7 @@ In short, this project showcases a few very basic transformations, some snapshot
 - The date table is enriched by joining the holidays data for germany, subdivision (~state) bayern.
 - Two snapshots are created for the "items" table. The first is build on the source, the second on a staging model. Both showcase a SCD type 2 table.
   - The snapshots are not triggered via normal "dbt run" command but need to be triggered seperately. Take notice that the second snapshot relies on a model, therefore the snapshot command should be run AFTER the models have been run.
+- Inbuild test functions are used, a custom test and a generic test.
  
 
 
