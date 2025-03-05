@@ -2,7 +2,7 @@
 
 ![grafik](https://github.com/user-attachments/assets/5f3c0627-8ae6-44cf-b8e3-96b9a12996fe)
 
-
+The repository in general showcases a lightweight ELT project with the sources being generated with python or static csv files, using a postgres DB hosted in docker, python+ DLT for E&L, and DBT for Transformations. The overall dbt transformations are very simple.
 
 
 **E&L with python and dlt** // Folder structure
@@ -16,10 +16,13 @@
 
 
 **Transformations with dbt**
+In short, this project showcases a few very basic transformations, some snapshots and tests.
 - For each source a source transformation with slight adjustments to the source files are completed (prefix "s_")
 - The date table is enriched by joining the holidays data for germany, subdivision (~state) bayern.
 - Two snapshots are created for the "items" table. The first is build on the source, the second on a staging model. Both showcase a SCD type 2 table.
   - The snapshots are not triggered via normal "dbt run" command but need to be triggered seperately. Take notice that the second snapshot relies on a model, therefore the snapshot command should be run AFTER the models have been run.
+ 
+
 
 
 **scheduler**
