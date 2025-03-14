@@ -12,7 +12,6 @@ uses: actions/checkout@v4
 
 - name: Install DBT using Nix
 uses: CedricLeong/install-dbt-action-nix@v1
-with: dbt-postgres
 
 - name: Verify DBT installation
 run: dbt --version
