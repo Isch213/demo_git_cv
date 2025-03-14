@@ -1,6 +1,6 @@
 name: run dbt debug
 
-on: [push, pull_request]
+on: [push, pull_request,workflow_dispatch ]
 
 jobs:
   install-dbt:
