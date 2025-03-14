@@ -1,21 +1,25 @@
-
-name: Install DBT with Nix
+name: run dbt debug
 
 on: [push, pull_request]
 
 jobs:
-install-dbt:
-runs-on: ubuntu-latest
+  install-dbt:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      - run: echo "💡 The ${{ github.repository }} repository has been cloned to the runner."
 
-steps:
-- name: Checkout repository
-uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v3
+        with:
+        python-version: '3.12'
 
-- name: Install DBT using Nix
-uses: CedricLeong/install-dbt-action-nix@v1
+      - name: install dbt postgres
+        run: pip install dbt-postgres
 
-- name: Verify DBT installation
-run: dbt --version
+      - name: Verify DBT installation
+        run: dbt --version
 
-- name: Run DBT command
-run: dbt run
+      - name: Run DBT command
+        run: dbt debug
