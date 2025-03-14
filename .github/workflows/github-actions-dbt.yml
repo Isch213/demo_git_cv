@@ -5,6 +5,9 @@ on: [push, pull_request,workflow_dispatch]
 jobs:
   install-dbt:
     runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: cv_postgres
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
