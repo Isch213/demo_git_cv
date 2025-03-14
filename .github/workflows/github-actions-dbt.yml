@@ -1,3 +1,4 @@
+
 name: Install DBT with Nix
 
 on: [push, pull_request]
@@ -5,7 +6,6 @@ on: [push, pull_request]
 jobs:
 install-dbt:
 runs-on: ubuntu-latest
-
 
 steps:
 - name: Checkout repository
