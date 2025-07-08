@@ -29,8 +29,7 @@ pipeline = dlt.pipeline(
     export_schema_path="schemas/export",
     pipeline_name=filename, 
     destination="postgres",  #access dlt_toml
-    dataset_name="raw",
-    dev_mode=True  
+    dataset_name="raw"
 )
 
 # Load data into PostgreSQL
